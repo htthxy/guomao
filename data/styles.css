@@ -12,6 +12,19 @@
 }
 .box_1 {
 }
+.image {
+  color:#000000;
+}
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.html_button {
+  text-align:center;
+}
 .box_2 {
 }
 .box_3 {
@@ -92,6 +105,9 @@
 }
 ._连接 {
 }
+.sticky_1 {
+  text-align:left;
+}
 .form_hint {
   color:#999999;
 }
@@ -109,5 +125,14 @@
 .box_11 {
 }
 .shape {
+}
+.heading_2 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._链接按下 {
 }
 textarea, select, input, button { outline: none; }
